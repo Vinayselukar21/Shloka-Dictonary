@@ -110,6 +110,13 @@ footer{
     .carousel-cell{
         width: 80%;
     }
+    .d-flex{
+        display: block !important;
+    }
+    .flex-item{
+        width: 100%;
+        margin: 20px 0px;
+    }
     .main_img_container{
         margin: 5px 0;
     }
