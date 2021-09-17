@@ -106,7 +106,7 @@ footer{
     text-decoration: none;
 }
 
-@media screen and (max-width:980px) and (min-width:411px){
+@media screen and (max-width:980px) and (min-width:414px){
     .carousel-cell{
         width: 80%;
     }
@@ -134,7 +134,7 @@ footer{
         font-size: 50px;
     }
 }
-@media screen and (max-width:412px){
+@media screen and (max-width:415px){
     body{
         width: 90%;
     }
